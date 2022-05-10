@@ -1,2 +1,2 @@
-# Jogo-Pong
+#Jogo-Pong
 Jogo desenvolvido no Javascript
